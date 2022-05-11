@@ -35,6 +35,9 @@ After adding the above information, you have to wait approximately 24 hr maximum
 # Step 3
 Within 24hours you should be able to see the Domain/Sub Domain on the Internet and it will be connected to the Hashnode account. Congratulations, you have finished the tutorial in the Blog!
 
+You can follow the steps from Step 2 if you already have a Hashnode account and linked your domain, then you can go to Hashnode blog setting ->Domain ->Enter the domain name.
+
+**Thank you for reading**
 #blog #domain #subdomain #hashnode
 
 ## Basic FAQs:
