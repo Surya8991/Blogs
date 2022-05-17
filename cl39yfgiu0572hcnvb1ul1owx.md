@@ -11,7 +11,7 @@ Hey everyone, I'm Surya L. This blog is about How to concentrate so you can achi
 - 
 Instead of focusing on other people's lives/goals, focus on your own.
 
-> Focus on the million things you can do rather than the one thing you cannot.
+> Focus on the few things you can do well rather than the million things you cannot.
 
 ## Step1:Belive in Yourself
 
