@@ -9,3 +9,5 @@ Day2:How to Develop your skills in Coding as a programmer[https://blog.surya-l.c
 Day3:Arithmetic Operation In JavaScript[https://blog.surya-l.com/arithmetic-operation-in-javascript]
 
 Day4:Increment and Decrement Operation in JavaScript[https://blog.surya-l.com/increment-and-decrement-operation-in-javascript]
+
+Day5:Compound Assignment with Arithmetic Operation[https://blog.surya-l.com/compound-assignment-with-arithmetic-operation#heading-content]
