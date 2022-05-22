@@ -2,7 +2,7 @@
 
 Hello everyone hope everyone is doing well. My name is Surya L, the purpose of this blog is to teach all about JavaScript Strings and its Operations.
 
-Content:
+### Content:
 1. Concatenating Strings with Plus Operator(+)
 2.  Concatenating Strings with the Plus Equals Operator(+=)
 3.  Constructing Strings with Variables
