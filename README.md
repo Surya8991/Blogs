@@ -15,3 +15,5 @@ Day5:Compound Assignment with Arithmetic Operation[https://blog.surya-l.com/comp
 Day6:Do You wanna Learn Strings and its Operations in JavaScript?[https://blog.surya-l.com/do-you-wanna-learn-strings-and-its-operations-in-javascript#heading-find-the-nth-to-last-character-in-a-string]
 
 Day7:How to use Array? And Array Functions in JavaScript[https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript]
+
+Day8:Wanna Learn JavaScript Functions read Functions here[https://blog.surya-l.com/wanna-learn-javascript-functions-read-functions-here]
