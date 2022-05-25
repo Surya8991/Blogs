@@ -17,3 +17,5 @@ Day6:Do You wanna Learn Strings and its Operations in JavaScript?[https://blog.s
 Day7:How to use Array? And Array Functions in JavaScript[https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript]
 
 Day8:Wanna Learn JavaScript Functions read Functions here[https://blog.surya-l.com/wanna-learn-javascript-functions-read-functions-here]
+
+Day9:JavaScript operators[https://blog.surya-l.com/javascript-operators]
