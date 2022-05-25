@@ -1,6 +1,7 @@
 ## JavaScript operators
 
 Hello everyone hope everyone is doing well. My name is Surya L, the purpose of this blog is to teach all about JavaScript Operators.
+
 Contents:
 1. Arithmetic Operations In JavaScript
 2. Increment and Decrement Operation in JavaScript
