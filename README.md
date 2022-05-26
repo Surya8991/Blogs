@@ -19,3 +19,5 @@ Day7:How to use Array? And Array Functions in JavaScript[https://blog.surya-l.co
 Day8:Wanna Learn JavaScript Functions read Functions here[https://blog.surya-l.com/wanna-learn-javascript-functions-read-functions-here]
 
 Day9:JavaScript operators[https://blog.surya-l.com/javascript-operators]
+
+Day10:If Statement In JavaScript With Examples[https://blog.surya-l.com/if-statement-in-javascript-with-examples]
