@@ -20,6 +20,6 @@ Day8:Wanna Learn JavaScript Functions read Functions here[https://blog.surya-l.c
 
 Day9:JavaScript operators[https://blog.surya-l.com/javascript-operators]
 
-Day10:If Statement In JavaScript With Examples[https://blog.surya-l.com/if-statement-in-javascript-with-examples]
+Day10:<a href="https://blog.surya-l.com/if-statement-in-javascript-with-examples">If Statement In JavaScript With Examples</a>
 
 Day11:<a href="https://blog.surya-l.com/if-else-statement-in-javascript-with-examples">If Else Statement In JavaScript With Examples</a>
