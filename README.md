@@ -1,5 +1,5 @@
 # Blogs
-<h2>This Repo is to Backup My Blogs</h2>
+<h1>This Repo is to Backup My Blogs</h1>
 
 Day1:<a href="https://blog.surya-l.com/all-about-javascript-variable">All About JavaScript Variable</a>
 
