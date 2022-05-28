@@ -22,3 +22,5 @@ Day9:<a href="https://blog.surya-l.com/javascript-operators">JavaScript operator
 Day10:<a href="https://blog.surya-l.com/if-statement-in-javascript-with-examples">If Statement In JavaScript With Examples</a>
 
 Day11:<a href="https://blog.surya-l.com/if-else-statement-in-javascript-with-examples">If Else Statement In JavaScript With Examples</a>
+
+Day12:<a href="https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example">Learn If Else If Statements in JavaScript with example</a>
