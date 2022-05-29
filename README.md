@@ -24,3 +24,5 @@ Day10:<a href="https://blog.surya-l.com/if-statement-in-javascript-with-examples
 Day11:<a href="https://blog.surya-l.com/if-else-statement-in-javascript-with-examples">If Else Statement In JavaScript With Examples</a>
 
 Day12:<a href="https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example">Learn If Else If Statements in JavaScript with example</a>
+
+Day13:<a href="https://blog.surya-l.com/switch-statement-in-javascript-with-examples-and-flowchart#heading-example3">Switch statement in JavaScript with examples and flowchart.</a>
