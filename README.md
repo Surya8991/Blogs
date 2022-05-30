@@ -26,3 +26,7 @@ Day11:<a href="https://blog.surya-l.com/if-else-statement-in-javascript-with-exa
 Day12:<a href="https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example">Learn If Else If Statements in JavaScript with example</a>
 
 Day13:<a href="https://blog.surya-l.com/switch-statement-in-javascript-with-examples-and-flowchart#heading-example3">Switch statement in JavaScript with examples and flowchart.</a>
+
+Day14:<a href="https://blog.surya-l.com/returning-boolean-values-from-functions-in-javascript">Returning Boolean Values from Functions in JavaScript</a>
+
+<a href="https://blog.surya-l.com/10-vs-code-must-have-extensions-as-web-developer">10 VS code Must have Extensions as Web Developer</a>
