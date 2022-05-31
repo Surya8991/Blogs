@@ -30,3 +30,5 @@ Day13:<a href="https://blog.surya-l.com/switch-statement-in-javascript-with-exam
 Day14:<a href="https://blog.surya-l.com/returning-boolean-values-from-functions-in-javascript">Returning Boolean Values from Functions in JavaScript</a>
 
 <a href="https://blog.surya-l.com/10-vs-code-must-have-extensions-as-web-developer">10 VS code Must have Extensions as Web Developer</a>
+
+Day15:<a href="https://blog.surya-l.com/learn-mathrandom-and-mathfloor-and-build-your-own-love-calculator">Learn Math.random( ) & Math.floor( ) and build your own love calculator❤</a>
