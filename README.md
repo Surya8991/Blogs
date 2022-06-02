@@ -34,3 +34,6 @@ Day14:<a href="https://blog.surya-l.com/returning-boolean-values-from-functions-
 Day15:<a href="https://blog.surya-l.com/learn-mathrandom-and-mathfloor-and-build-your-own-love-calculator">Learn Math.random( ) & Math.floor( ) and build your own love calculator❤</a>
 
 Day16:<a href="https://blog.surya-l.com/all-about-javascript-objects">All about JavaScript Objects</a>
+
+Day17:<a href="https://blog.surya-l.com/javascript-object-operation">JavaScript Object Operation
+Operations like Using Objects for Lookups , Testing Objects for Properties, Manipulating Complex Objects, Accessing Nested Objects</a>
