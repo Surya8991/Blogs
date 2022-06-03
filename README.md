@@ -37,3 +37,5 @@ Day16:<a href="https://blog.surya-l.com/all-about-javascript-objects">All about 
 
 Day17:<a href="https://blog.surya-l.com/javascript-object-operation">JavaScript Object Operation
 Operations like Using Objects for Lookups , Testing Objects for Properties, Manipulating Complex Objects, Accessing Nested Objects</a>
+
+Day18:<a href="https://blog.surya-l.com/learn-while-and-do-while-loops-in-javascript">Learn While and do While Loops In JavaScript</a>
