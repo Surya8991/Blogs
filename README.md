@@ -43,3 +43,5 @@ Day18:<a href="https://blog.surya-l.com/learn-while-and-do-while-loops-in-javasc
 Day19:<a href="https://blog.surya-l.com/learn-for-loop-in-javascript">Learn For Loop in JavaScript</a>
 
 Day20:<a href="https://blog.surya-l.com/learn-parseint-function-and-parseint-function-with-redix-in-javascript">Learn parseInt Function & parseInt Function with Redix In JavaScript</a>
+
+Day21:<a href="https://blog.surya-l.com/learn-conditional-ternary-operator-in-javascript">Learn Conditional (Ternary) Operator in JavaScript</a>
