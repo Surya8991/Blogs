@@ -47,3 +47,5 @@ Day20:<a href="https://blog.surya-l.com/learn-parseint-function-and-parseint-fun
 Day21:<a href="https://blog.surya-l.com/learn-conditional-ternary-operator-in-javascript">Learn Conditional (Ternary) Operator in JavaScript</a>
 
 Day22:<a href="https://blog.surya-l.com/learn-recursion-in-javascript">Learn Recursion In JavaScript</a>
+
+Day23:<a href="https://blog.surya-l.com/learn-javascript-basics-in-this-one-blog">Learn JavaScript Basics in this one blog</a>
