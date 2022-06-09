@@ -49,3 +49,5 @@ Day21:<a href="https://blog.surya-l.com/learn-conditional-ternary-operator-in-ja
 Day22:<a href="https://blog.surya-l.com/learn-recursion-in-javascript">Learn Recursion In JavaScript</a>
 
 Day23:<a href="https://blog.surya-l.com/learn-javascript-basics-in-this-one-blog">Learn JavaScript Basics in this one blog</a>
+
+Day24:<a href="https://blog.surya-l.com/difference-between-var-let-and-const-variable-in-javascript">Difference Between Var ,Let and Const variable in JavaScript</a>
