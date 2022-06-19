@@ -51,3 +51,27 @@ Day22:<a href="https://blog.surya-l.com/learn-recursion-in-javascript">Learn Rec
 Day23:<a href="https://blog.surya-l.com/learn-javascript-basics-in-this-one-blog">Learn JavaScript Basics in this one blog</a>
 
 Day24:<a href="https://blog.surya-l.com/difference-between-var-let-and-const-variable-in-javascript">Difference Between Var ,Let and Const variable in JavaScript</a>
+
+Day25:<a href="https://blog.surya-l.com/how-to-prevent-object-mutation-in-javascript">How to Prevent Object Mutation in JavaScript</a>
+
+<a href="https://blog.surya-l.com/how-to-mutate-an-array-declared-with-const-variable-in-javascript">How to Mutate an Array Declared with const variable in JavaScript</a>
+
+Day26:<a href="https://blog.surya-l.com/learn-arrow-function-to-write-concise-anonymous-functions-in-javascript">Learn Arrow Function ➡to Write Concise Anonymous Functions In JavaScript</a>
+
+<a href="https://blog.surya-l.com/what-is-stressanxietydepression-and-the-magic-pill-to-overcome-it#heading-depression">What is stress/anxiety/Depression? and the Magic Pill 💊 to overcome it.</a>
+
+Day27:<a href="https://blog.surya-l.com/learn-how-to-write-arrow-functions-with-parameters-in-javascript">Learn How to Write Arrow Functions➡ with Parameters in JavaScript.</a>
+
+Day28:<a href="https://blog.surya-l.com/learn-how-to-set-default-parameters-for-your-functions">Learn how to Set Default Parameters for Your Functions</a>
+
+Day29:<a href="https://blog.surya-l.com/learn-rest-and-spread-operator-in-javascript">Learn Rest and Spread Operator In JavaScript</a>
+
+Day30:<a href="https://blog.surya-l.com/learn-how-to-create-strings-using-template-literals-in-javascript">Learn how to Create Strings using Template Literals? in JavaScript</a>
+
+Day31:<a href="https://blog.surya-l.com/all-about-destructing-assignments-in-javascript">All about Destructing Assignments In JavaScript</a>
+
+Day32:<a href="https://blog.surya-l.com/concise-object-literal-declarations-using-object-property-shorthand-in-javascript">Concise Object Literal Declarations Using Object Property Shorthand in JavaScript.</a>
+
+<a href="https://blog.surya-l.com/learn-concise-declarative-functions-with-es6-in-javascript">Learn Concise Declarative Functions with ES6 in JavaScript.</a>
+
+Day33:<a href="https://blog.surya-l.com/learn-constructor-function-in-javascript">Learn Constructor Function in JavaScript</a>
