@@ -75,3 +75,5 @@ Day32:<a href="https://blog.surya-l.com/concise-object-literal-declarations-usin
 <a href="https://blog.surya-l.com/learn-concise-declarative-functions-with-es6-in-javascript">Learn Concise Declarative Functions with ES6 in JavaScript.</a>
 
 Day33:<a href="https://blog.surya-l.com/learn-constructor-function-in-javascript">Learn Constructor Function in JavaScript</a>
+
+Day34:<a href="https://blog.surya-l.com/learn-how-to-create-a-module-script-and-use-export-to-share-the-code-block-in-javascript">Learn How to create a Module Script and Use export to share the code block in JavaScript.</a>
