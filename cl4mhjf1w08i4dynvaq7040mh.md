@@ -98,4 +98,14 @@ import add from "./math_functions.js";
 - With import keyword, you can choose what parts of a file or module to import. 
 
 - 
-To import all contents/ functions from a file can be done with the import * as syntax
+To import all contents/ functions from a file can be done with the import * as syntax.
+
+Thanks for reading the blog. Do let me know what you think about it.
+
+**You can connect me with <a href="https://www.showwcase.com/suryal8991">Showwcase</a>
+<a href="https://twitter.com/SURYA_L1998">Twitter</a>
+<a href="https://blog.surya-l.com/">Blog</a>
+<a href="https://github.com/Surya8991">GitHub</a>
+<a href="mailto:contact@surya-l.com">Contact Me</a>**
+
+Refernce: I learned this topics in [FreeCodeCamp](https://www.freecodecamp.org/learn/) which I explained in minified version
