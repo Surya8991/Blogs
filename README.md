@@ -79,3 +79,5 @@ Day33:<a href="https://blog.surya-l.com/learn-constructor-function-in-javascript
 Day34:<a href="https://blog.surya-l.com/learn-how-to-create-a-module-script-and-use-export-to-share-the-code-block-in-javascript">Learn How to create a Module Script and Use export to share the code block in JavaScript.</a>
 
 Day35:<a href="https://blog.surya-l.com/learn-javascript-import-and-export">Learn JavaScript Import and Export</a>
+
+Day36:<a href="https://blog.surya-l.com/learn-all-about-numbers-in-javascript">Learn all about Numbers in JavaScript</a>
