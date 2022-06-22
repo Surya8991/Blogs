@@ -81,3 +81,5 @@ Day34:<a href="https://blog.surya-l.com/learn-how-to-create-a-module-script-and-
 Day35:<a href="https://blog.surya-l.com/learn-javascript-import-and-export">Learn JavaScript Import and Export</a>
 
 Day36:<a href="https://blog.surya-l.com/learn-all-about-numbers-in-javascript">Learn all about Numbers in JavaScript</a>
+
+Day37:<a href="https://blog.surya-l.com/know-the-difference-between-slice-and-splice-in-javascript">Know the Difference Between Slice( ) and Splice( ) in JavaScript</a>
