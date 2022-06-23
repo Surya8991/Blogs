@@ -160,7 +160,8 @@ Output:
 ```
 12
 ```
-### 6.Program to display the Array in Ascending , Descending Order . Highest value and Lowest value of the Array
+### 6.Program to display the Array in Ascending , Descending Order . Highest value 
+and Lowest value of the Array
 ```
 const arr=[ 600, 50, 30, 88, 1 ];
 console.log("Ascending Order:",arr.sort((a,b)=>a-b));
