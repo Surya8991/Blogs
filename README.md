@@ -85,3 +85,5 @@ Day36:<a href="https://blog.surya-l.com/learn-all-about-numbers-in-javascript">L
 Day37:<a href="https://blog.surya-l.com/know-the-difference-between-slice-and-splice-in-javascript">Know the Difference Between Slice( ) and Splice( ) in JavaScript</a>
 
 Day38:<a href="https://blog.surya-l.com/know-array-sorting-in-javascript">Know Array Sorting in JavaScript</a>
+
+Day39:<a href="https://blog.surya-l.com/know-the-difference-between-for-loop-and-foreach-loop-in-javascript">Know the Difference between For loop & forEach loop in JavaScript.</a>
