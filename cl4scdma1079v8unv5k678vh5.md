@@ -1,4 +1,4 @@
-## Know the Difference between For loop & forEach loop in JavaScript.
+## Know the Difference between For loop & forEach loop in JavaScript
 
 Hello everyone hope you are all doing well, My name is Surya L.
 
