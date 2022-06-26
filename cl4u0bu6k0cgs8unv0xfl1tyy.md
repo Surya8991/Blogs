@@ -49,7 +49,7 @@ array.filter(function(value, Index, array), thisValue)
 In filter() method a value is passed to the function as its this value.
 
 
-- Same find( ) method Program using filter( ) Method
+- ### Same find( ) method Program using filter( ) Method
 
 ```
 const array1 = [5, 12, 8, 130, 44];
