@@ -230,6 +230,7 @@ console.log("whiteSpace"+resultWhiteSpace) //Returns Whitespace Characters
 let resultNoWhiteSpace=whiteSpace.match(noSpaceRegex).join("");
 console.log("No Whitespace: "+resultNoWhiteSpace); //Returns Non Whitespace Characters
 ```
+
 Thanks for reading the blog. Do let me know what you think about it.
 
 Reference: I Have Simplified the things I learned from FreeCodeCamp.
