@@ -72,7 +72,7 @@ console.log(emailExtractor("bhsdbknhjdbhkjnldsjhbdfk@yahoo.jh ss@yahoo.com dajfg
 The output of above Code is ```
 ["shdd@gmail.com"]
 ```
-Thanks for reading the blog. Do let me know what you think about it.
+**Thanks for reading the blog. Do let me know what you think about it.**
 
 **You can connect me with <a href="https://www.showwcase.com/suryal8991">Showwcase</a>
 <a href="https://twitter.com/SURYA_L1998">Twitter</a>
