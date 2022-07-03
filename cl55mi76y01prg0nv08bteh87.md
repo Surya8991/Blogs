@@ -1,4 +1,4 @@
-## Learn the concept of Hoisting for Variable and unctions in JavaScript.
+## Learn the concept of Hoisting for Variable and Functions in JavaScript.
 
 Hello everyone hope you are all doing well, My name is Surya L.
 
