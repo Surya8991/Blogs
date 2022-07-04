@@ -3,7 +3,7 @@ Using typeof to Check the Type of a Variable
 
 Hello everyone hope you are all doing well, My name is Surya L.
 
-I have divide the debugging topics in many parts to teach you Debugging in detail. 
+I have divided the debugging topics in many parts to teach you Debugging in detail. 
 
 In this blog we will use JavaScript Console to debug and typeof to Check the Type of a Variable in order to debug the code.
 ## Using the JavaScript Console to debug.
