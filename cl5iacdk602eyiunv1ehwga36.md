@@ -5,9 +5,11 @@ Hello everyone hope you are all doing well, My name is Surya L.
 In this blog we will Learn JavaScript Basic Data Structure explained in this blog.
 
 ## What is an Array?
+
 In computing, the term array refers to a collection of items stored on contiguous memory locations. The idea is to store multiple items of the same type together. An array's index starts at 0 and is called Zero indexing.
 
 ## Adding an element in array using push and unshift method:
+
 - In JavaScript we can insert or data using push ( ) and unshift( ).
 - push ( ) method inserts an element or data at last index or end of an array.
 - unshift( ) method is also used to insert an element but unlike push ( ) method which inserts the element at the end of the array , unshift inserts the element at the starting location in an array.
@@ -15,6 +17,7 @@ In computing, the term array refers to a collection of items stored on contiguou
 ### Example of Adding elements using push( ) method.
 
 - Program
+
 ```
 let fruits=["Apple","Kiwi","Pineapple"];
 console.log("Before Adding: "+fruits);
@@ -23,6 +26,7 @@ console.log("After Adding: "+fruits);
 ```
 
 - Output:
+
 ```
 Before Adding: Apple,Kiwi,Pineapple
 After Adding: Apple,Kiwi,Pineapple,Mango
@@ -32,6 +36,7 @@ After Adding: Apple,Kiwi,Pineapple,Mango
 ### Example of Adding elements using unshift( ) method.
 
 - Program
+
 ```
 let fruits=["Apple","Kiwi","Pineapple"];
 console.log("Before Adding: "+fruits);
@@ -40,6 +45,7 @@ console.log("After Adding: "+fruits);
 ```
 
 - Output
+
 ```
 Before Adding: Apple,Kiwi,Pineapple
 After Adding: Mango,Apple,Kiwi,Pineapple
@@ -54,6 +60,7 @@ After Adding: Mango,Apple,Kiwi,Pineapple
 ### Example of Removing elements using pop( ) method.
 
 - Program
+
 ```
 let fruits=["Apple","Kiwi","Pineapple","Mango","Banana","Strawberry"];
 console.log("Before Removing: "+fruits);
