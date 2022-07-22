@@ -1,4 +1,4 @@
-## JavaScript OOPs part 1: Create an Object and Access it.
+## JavaScript OOP's part 1: Create an Object and Access it.
 
 Hello everyone hope you are all doing well, My name is Surya L.
 
