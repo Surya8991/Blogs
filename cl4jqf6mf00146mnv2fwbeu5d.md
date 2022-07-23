@@ -162,9 +162,9 @@ console.log(person2.gender); // Male
 
 - It should be noted that the class keyword declares a new function, to which a constructor is added. 
 
-
 - This constructor is invoked when new is called to create a new object.
 
-- Note: UpperCamelCase should be used by convention for ES6 class names, as in SpaceShuttle used above.
-
 - The constructor method is a special method for creating and initializing an object created with a class. 
+### Thanks for reading the blog. Do let me know what you think about it.
+Reference: I learned this topic from freecodeCamp which i have minified.
+You can find me at [Showwcase](https://www.showwcase.com/suryal8991), [Linkedin](https://www.linkedin.com/in/surya-l/) , [Twitter](https://twitter.com/SURYA_L1998) , [GitHub](https://github.com/Surya8991) , [Email](mailto:contact@surya-l.com) .
